@@ -1,0 +1,25 @@
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Venv
+.venv
+
+# Git
+.git
+.gitignore
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node/Front-end
+node_modules
+
+# Data cache/tmp
+*.log
+*.tmp
+*.swp

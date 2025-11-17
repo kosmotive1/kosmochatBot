@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: kosmo-chatbot-api
+    runtime: docker
+    plan: free
+    autoDeploy: true
+    envVars:
+      - key: PYTHONUNBUFFERED
+        value: "1"
+      - key: PYTHONDONTWRITEBYTECODE
+        value: "1"
+    disk:
+      name: kb-data
+      mountPath: /app/data
+      sizeGB: 1
+    healthCheckPath: /health
+

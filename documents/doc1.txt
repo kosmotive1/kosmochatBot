@@ -1,0 +1,250 @@
+question,answer,tags
+Imihango isanzwe igira igihe kingana gute?,"Bikunze kumara iminsi 3 kugeza kuri 7, kandi hagati y'imihango habamo iminsi 21–35. Iyo bitandukanye cyane n'ibi, ushobora kugisha inama muganga.",
+Ibimenyetso byo gusama ni ibihe?,"Ibimenyetso bishobora kuba kuruka cyangwa iseseme, kunanirwa, amabere ababaza, gusinzira cyane, no gutinda k'ukwezi. Kugirango wemeze, ikizamini cya nyababyeyi (pregnancy test) kirafasha.",
+Nigute nagabanya kuribwa mu mihango?,"Gerageza kunywa amazi menshi, kuruhuka, gukora imyitozo yoroshye, gushyushya mu nda (hot water bottle), no gufata imiti igabanya ububabare nko mu byemewe na muganga. Niba biremereye cyane, jya kwa muganga.",
+Ni ryari nakwiye gukora ikizamini cyo gusama?,"Ni byiza kugikora nyuma y'uko imihango itinze nibura umunsi 1–7. Kora ikizamini mu gitondo cya kare, kuko hormone hCG iba hejuru mu nkari za mu gitondo.","pregnancy test,gusama"
+Ni iki nakora ngo nshyigikire umwana uvutse?,"Mu minsi ya mbere, umwana akeneye konswa kenshi, isuku, urukundo n'uburinzi. Komeza gukurikirana ibiro by'umwana, imvaccination, no kugisha inama abajyanama b'ubuzima.",
+Konsa kenshi bikwiriye gute?,"Mu byumweru bya mbere, konsa buri masaha 2–3 cyangwa iyo umwana agaragaje inzara. Reba ko umwana afata neza ibere kandi yumva aruhutse nyuma yo konsa.",
+Ni ibihe biribwa byiza ku mugore utwite?,"Fungura indyo yuzuye: imboga n'imbuto, ibinyampeke bitunganyije, ibinyamafufu (ibishyimbo, amata, amagi, inyama zitetse neza), amazi ahagije, na fer (iron) na folic acid nk'uko byerekanwa n'abaganga.",
+Ni ryari nkwiye kwitaba muganga mu gihe ntwite?,"Uvuze cyangwa ugaragaje: kubyimba bikabije, kuribwa mu nda gukomeye, amaraso ava mu gitsina, umutwe ukabije, kutabona neza, cyangwa umwana ntakombere nk'uko bisanzwe. Jya kwa muganga ako kanya.",
+Igihe cy'uburumbuke gishingiye kuki?,"Akenshi kigerwaho mu minsi 12–16 mbere y'uko imihango ikurikira iza, mu gihe habaho ovulation. Kubara neza bisaba kumenya isanzwe ry'igihe cyawe.",
+Nigute narera umwana neza mu mezi 6 ya mbere?,"Konsa gusa (exclusive breastfeeding) niba bishoboka, gukingiza ku gihe, isuku n'umutekano, kuryama atekanye, gukurikirana ibiro n'iterambere by'umwana kwa muganga.",
+Ni iki gikwiye kwitabwaho mu gihe cy'imihango?,"Isuku (gukoresha pads cyangwa ibikoresho by'isuku byizewe), guhindura kenshi, kunywa amazi, kuruhuka, no kwirinda imiti idasobanutse n'ikangiza. Niba amaraso ari menshi cyane, jya kwa muganga.",
+Ese imihango burigihe iza nyuma y iminsi 28?,"Oya, Impuzandengo ni iminsi 28, ariko bishobora kuba hagati y’iminsi 21–35. Buri mugore agira ikigero cye cyihariye kandi gishobora guhinduka bitewe n’imyaka, stress, indwara nibindi.",
+"hey,Muraho,hello,amakuru,Bite,ndashaka kukubaza",Muraho neza! nitwa KosmoBot umufasha mukugufasha kumenya ubuzima bw'imyororokere n'ubwumubyeyi n'umwana.,"greetings,gusuhuza"
+"Ese koga amazi akonge bituma imihango ihagarara?,Amazi akonje ahagarika imihango?",Oya. Koga amazi akonje ntibihagarika imihango.,
+Ese kuki umuntu aba ajya mu mihango ariko ntabyare?,"Impamvu umuntu ashobora kujya mu mihango ariko ntabyare ni uko kujya mu mihango (menstruation) no gusama/gutwita (pregnancy) atari ibintu bihuza 100%. Hari impamvu nyinshi zishobora gutuma umuntu adasama:
+·  Kudahuza neza igihe cyo gukora imibonano n’igihe intanga ngore isohokera.
+·  Intanga ngabo zidashoboye kugera aho zikwiriye.
+·  Imiyoboro y’intanga ngore (fallopian tubes) ifunze cyangwa ifite ikibazo.
+· Indwara nka PCOS, endometriosis, cyangwa ibibazo by’imisemburo,
+Stress, imirire idahagije, cyangwa ubuzima bw’umubiri butameze neza.",
+"Ese umuntu ashobora gukora imyitozo ngororamubiri mugihe ari mumihango?,gukore sport uri mumihango nibyiza?,ase umuntu yakora sport ari mumihango?, ndashaka gukora sport ariko ndi mumihango nibyiza?","Yego, Birashoboka gukora  imyitozo ngororamubiri kuko ifasha kugabanya ububabare (cramps), igabanya stress, no gutuma wumva utuje. Gusa umuntu ashobora guhitamo imyitozo yoroshye nk’uguhina umubiri, kugenda n’amaguru, yoga cyangwa kwiruka buhoro.",
+"Umuntu ashobora gutwita mugihe ari mu mihango?,ko ndi mumihango ubu nasama?,gutwita uri mumihango nibyo?,gusama uri mumihango nibyo?,","yego, birashoboka ko umuntu ashobora gutwita ari mu mihango mu gihe akoze imibonano mpuzabitsina idakingiye.  Biterwa n’uko intanga ngore ishobora gusohoka vuba nyuma y’imihango, kandi intanga ngabo (sperm) ishobora kumara iminsi 5 mu mubiri. Bityo, gukora imibonano mu mihango bishobora gutuma utwita niba igihe cy’uburumbucye kibaye vuba.",
+"Kuki ndibwa mu nda mu gihe k’ imihango?,kuribwa mu nda ndi mumihango biterwa niki?,kuberiki munda hari kurya kandi ndi mumihango?",Impamvu nyamukuru ituma umukobwa cyangwa umugore aribwa mu nda mu gihe cy’imihango (dysmenorrhea) ni uko umubiri uba uri gukora umusemburo witwa prostaglandins. Uyu musemburo utuma imitsi ya nyababyeyi yikanyiza(Cramps) kugirango ibashe gusohora amaraso ave muri nyababyeyi. Bigatuma wumva ubu babare.,kuribwa munda
+"Ni ryari umukobwa atangira kujya mu mihango?, imihango itangira ryari?","Akenshi abakobwa batangira kujya mu mihango hagati y’imyaka 11–14. Ariko bishobora gutangira kare ku myaka 9, cyangwa bigatinza bikagera no ku myaka 15–16, kandi byose biba bisanzwe mu gihe nta bundi burwayi bubiherekeje.",
+ese umukobwa ajya mumihango ryari?,"Akenshi abakobwa batangira kujya mu mihango hagati y’imyaka 11–14. Ariko bishobora gutangira kare ku myaka 9, cyangwa bigatinza bikagera no ku myaka 15–16, kandi byose biba bisanzwe mu gihe nta bundi burwayi bubiherekeje.",
+Ukwezi k’ umugore ni iki?,Ukwezi k’umugore gutangira ku munsi wambere wi mihango ku karangira ku munsi ubanziriza imihango yukwezi gukurikiyeho.,
+What is ovulation?,"Umunsi wuburumbucye  ni kimwe mu gice cy’ukwezi k’umugore aho intanga ngore iba imaze gukura isohoka mu gahago kayo  (ovary) ikajya mu muyoboro (fallopian tube), aho ishobora guhura n’intanga ngabo.",
+Umunsi w’ uburumbuke aba ari uwuhe mu kwezi ku umukobwa?,"Igihe Cy’uburumbucye  gitandukana bitewe n’uko ukwezi ku mugore kureshya.
+Umunsi w’uburumbucye ukunze kuba ku munsi wa 14 mbere y’uko imihango ikurikira itangira.
+·         Mu kwezi kw’iminsi 30, umunsi  wuburumbucye waba ari  umunsi wa 16.
+·         Mu kwezi kw’iminsi 26, umunsi wuburumbucye waba ari uwa  12.",
+Imihango isanzwe iba ingana ite?,"1.Ingano  y’imihango tuyibara tugendeye kubintu bitatu aribyo, ubwinshi bw’amaraso asohoka igihe bimara ni inshuro bibaho mu kwezi.
+ a. Ubwinshi (Volume): Akenshi hasohoka hagati ya mililitiro 30–80 mu gihe cy’imihango yose. Munsi ya 30 mL biba ari bike (light), hejuru ya 80 mL bishobora kuba byinshi (heavy).
+ b. Igihe (Duration): Akenshi imihango imara iminsi 3–7. Kuba igufi cyangwa igahoraho gato kurenza ibyo nabyo birashoboka kandi ntibihita biba ikibazo.",
+Imihango imara iminsi ingahe ubusanzwe?,Imihango ubusanzwe imara hagati y’iminsi 3–7. Ariko ishobora kuba mike cyangwa myinshi bikaba bisanzwe ntakibazo. Urugero nku muntu utangiye kujya mu mihango bwambere ashobora kuyijyamo iminsi ibiri gusa.,
+"Ni ibihe bimenyetso bya mbere byo gutwita?,ibimenyetso byo gutwika nibihe?,namenya gute ko nwite?","1. Kubura imihango
+2. Isesemi
+3. Kuruka
+4. Kuribwa/kubyimba amaberi
+5. Gushaka cyane kurya ikintu runaka cyangwa kwanga kurya ikintu runaka
+6. Kunyaragura
+7. Kumva unaniwe",
+"Ni incuro zingahe umugore utwite asabwa kujya kwipimisha inda (ANC),Kwipimisha inda bikorwa kangahe?","WHO iteganyako umugore utwite agomba kubonana na muganga / gupimisha inda(ANC)
+byibura inshuro 8 mbere yu uko abyara kugirango ubuzima bw’umubyeyi nu mwana
+bugende neza.",
+"Kubera iki gupimisha inda(ANC) ari ingenzi ?,Ese gupimisha inda ningombwa?","Yego,gukupimisha inda ningenzi.
+Bifasha gukurikirana ubuzima bw’ümubyeyi nu mwana, bikumira ibibazo bishobora
+kuvuka mugihe cyo gutwita, kubyara na nyuma yo kubyara, no gutanga inyigisho k’
+ubuzima.",
+"Ni ibihe biryo umugore utwite yemerewe kurya ni ibyo atemerewe kurya ?,Iyo utwite urya iki?","Umugore utwite aba agomba kurya indyo yuzuye irimo imbuto, imboga, poroteyine, n’ibinyampeke byose.
+ Irinde
+inzoga, inyama zidatunganyijwe neza, ikawa nyinshi, n’amata apfuye (atapimwe).",
+Ni ibihe bimenyetso mpuruza umugore utwite agomba kw’itondera?,"ibimetso muruza umugore agomba kw'itondera ni:
+1. Kuribwa umutwe cyane
+2. Kureba ibicyezi cyezi
+3. Kuvira kunda
+4. Kuribwa munda cyane
+5. Kugenda gacye k’ umwana mu nda.
+6. Kugagara
+7. Kubyimba Ibirenge, mu maso, n’ibiganza.
+8. Isesemi no kuruka bikabije
+9. Umuriro mwinshi no gucika intege.",
+Ni iki umugore utwite yakora ngo yirinde kugira amaraso macye?,"1.Ni ukurya ibiryo bikungahaye ku butare bwa Fer (Iron) nk’inyama, ibishyimbo, imbuto
+z’icyatsi kibisi, n’ibinyampeke byose.
+2. Kunywa ibinini bya fer (iron supplements) byatanzwe n’umuganga.
+3. Kwisuzumisha ingano ya haemoglobin iri mu maraso buri uko ugiye gupimisha inda
+(ANC visits).
+4. Kurya indyo irimo vitamine C: Ifasha umubiri gufata Fer neza, nk’imbuto z’icunga,
+imineke, cyangwa poivron.",
+"Ni izihe ngaruka za Malariya ku mugore utwite?,Ingaruka za malariya ku mugore utwite?","Ingaruka ni :
+1. Kubura amaraso (anemia) ku mugore utwite.
+2. Umubyeyi ashobora kurwara cyane cyangwa akitaba Imana.
+3. Umwana ashobora kuvuka atarageza igihe (premature birth) cyangwa agapfira mu nda
+(Still birth).
+4. Umwana ashobora kuvukana ibiro bike (low birth weight).
+5. Gukuramo inda (Abortion or miscarriage)",
+Ese gukora imyitozo ngororamubiri ni byiza ku bagore batwite?,"Yego, gukora imyitozo yoroheje cyangwa ifite imbaraga ziciriritse birasanzwe kandi
+birasabwa ku bagore batwite, kuko bifasha mu kugumana ibiro bikwiye, kwitegura
+kubyara neza, no kunoza ubuzima bw’umubyeyi n’umwana. Ariko, imyitozo ikomeye
+ishobora guteza ibyago byo kugwa no gukomereka. Imikino ihurirwamo nabantu benshi
+igomba kwirindwa. Ni ingenzi kumva umubiri wawe, guhindura imyitozo uko inda ikura,
+kandi ugakomeza gukurikiza inama ugirwa na muganga.",
+Ese abagore batwite bashobora gufata imiti iyo ari yo yose?,"Oya, umugore utwite ntiyemerewe gufata imiti iyo ari yo yose. Hari imiti itemewe
+ishobora guteza akaga ku buzima bw’ umwana uri mu nda, mu gihe hari n’indi miti
+idafite icyo itwaye ku mugore utwite. Ni ingenzi cyane ko umugore utwite agisha inama
+muganga mbere yo gufata imiti iyo ari yo yose.",
+Ni ibihe bimenyetso byo kubyara?,"Ibimenyetso byo kubyara ni:
+1.Kubabara mu nda cyangwa mu mugongo kenshi kandi ku buryo buhoraho (contractions).
+2. Gutakaza amazi aturutse muri nyababyeyi (waters breaking).
+3. Kuzana igitonyanga cy’amaraso gike mu gitsina (bloody show).
+4. Kumva ushaka kujya mu bwiherero kenshi.",
+Ni mu gihe kingana iki umugore akwiye kugira isuzumwa nyuma yo kubyara?,"Umugore akwiye kugira isuzumwa mu masaha 48 akurikira kubyara, hanyuma hagati y’icyumweru kimwe kugeza kuri
+bibiri, no ku cyumweru cya 6 nyuma yo kubyara.",
+"Ni ibihe bimenyetso mpuruza nyuma yo kubyara?,ibimenyetso bya nyuma yo kubyara?","Ni:
+1. Kuva cyane
+2. Umuriro mwinshi
+3. Kuribwa umutwe cyane
+4. Kureba ibicyezicyezi
+5. Guhumeka nabi no kuribwa mu gatuza
+6. Kuzana ibintu bidasanzwe mu gitsina kandi bihumura nabi.",
+Umugore akwiye gutegereza igihe kingana iki mbere yo kongera gutwita?,Umugore agomba gutegereza nibura imyaka 2 kugira ngo ubuzima bw’umugore n’umwana bube bwiza.,
+Ni ibihe biribwa bifasha umugore kongera imbaraga no gukira nyuma yo kubyara?,"Umugore agomba kurya:
+
+1. Indyo yuzuye irimo Protein: nk’inyama, amafi, na amagi.
+2. Imbuto n’imboga: zitanga vitamine ni imyunyu ngugu by’ingirakamaro ko buzima.
+3. Ibinyampeke byose: nk’umuceri, ibigori, amasaka, nibindi.
+4. Amata n’ibikomoka ku mata: bifasha kongera calcium mu mubiri.
+5. Amazi menshi: gufata amazi bihoraho bifasha umubiri gusubira mu buryo.",
+Ni gute umugore wabyaye abazwe (C- Section) yakwita kugisebe?,"1. Kugira isuku y’ahakomeretse kandi ukirinda gukoraho n’intoki zanduye.
+2. Gukaraba intoki neza mbere yo gukora aho babaze.
+3. Gukaraba umubiri wose uko bikwiye, ariko ukirinda gushyira amazi aho babaze.
+4. Kwambara imyenda yoroheje kandi itwikiriye neza kugira ngo itabangamira igikomere.
+5. Ni byiza kwihutira kujya kwa muganga mu gihe ugize kimwe muri ibi bimenyetso:
+kuribwa munda cyane/ aho bakubaze, umuriro mwinshi, gutukura kuruhu ruzengurutse
+aho babaze no kuzana amashyira mu gisebe.",
+"Umugore ashobora kongera gukora imibonano mpuzabitsina mu gihe kingana iki nyuma yo
+kubyara?","Umugore asabwa gutegereza nibura ibyumweru 6 nyuma yo kubyara mbere yo kongera
+gukora imibonano mpuzabitsina, kugira ngo umubiri we ukire neza kandi bigabanye
+ibyago byo kugira uburibwe cyangwa ibindi bibazo by’ubuzima.",
+Ni ukubera iki konsa umwana ari ingenzi?,"Konsa umwana n'ingenzi kubera:
+
+1. Bitanga intungamubiri zose umwana akeneye mu mezi ya mbere y’ubuzima.
+2. Bikingira umwana indwara zitandukanye kuko mu mashereka habamo abasikari barinda
+umubiri (antibodies).
+3. Bituma umwana agira ubuzima bwiza.
+4. Bihuza umubyeyi n’umwana binyuze mu rukundo n’urukumbuzi.
+5. Bigabanya ibyago byo kurwara kanseri zimwe na zimwe ku mubyeyi no gutakaza
+amaraso menshi nyuma yo kubyara.",
+Ni ryari umwana agomba gutangira konka nyuma yo kuvuka?,Umwana agomba konka mwi isaha yambere nyuma yo kuvuka.,
+Ni ibihe byiza byo konsa umwana amezi atandatu nta kindi kintu umuvangiye?,"Ibyiza byo konsa umwana ni:
+
+1.Umwana abona intungamubiri zose akeneye mu mezi 6 ya mbere.
+2. Konka gusa bimurinda indwara zikunda kw’ibasira impinjya n’izindi ndwara zikomeye
+kuko abona ubwirinzi (antibodies).
+3. Bifasha umwana gukura neza, kugira ubuzima bwiza no kugira imbaraga.
+4. Bihuza umwana n’umubyeyi, bigatuma bagirana urukundo n’ibihe byiza.",
+Ni ryari umwana atangira guhabwa imfashabere?,"Umwana atangira guhabwa imfashabere kuva ku mezi 6, ariko agakomeza konka kugeza
+nibura ku myaka 2 cyangwa kurenza, kuko amata y’umubyeyi akomeza kumufasha
+gukura no kugira ubuzima bwiza.",
+Ni izihe nkingo umwana ahabwa?,"1. Akivuka umwana ahabwa inkingo za:
+o BCG (ikingira igituntu)
+o Polio 0
+2. Ku cyumweru 6:
+o Polio 1
+o Pentavalent 1 (Diphtheria, Tetanus, Pertussis, Hepatitis B, Hib)
+o PCV 1 (Pneumococcal vaccine)
+o Rotavirus 1
+3. Ku byumweru 10:
+o Polio 2
+o Pentavalent 2
+o PCV 2
+o Rotavirus 2
+4. Ku byumweru 14:
+o Polio 3
+o Pentavalent 3
+o PCV 3
+5. Ku mezi 9:
+o Inkingo ya Rubella/Measles 1 (Iseru na Rubeyole)
+o Inkingo ya Fievre Jaune (yellow fever) mu bihugu ibonekamo.
+6. Ku mezi 15:
+o Measles/Rubella 2 (Iseru na Rubeyole)
+Izi nkingo zifasha umwana kugira ubwirinzi bukomeye kandi zika murinda kwandura indwara
+zimwe nazimwe.",
+"Ni izihe ndwara zikunze kugaragara ku bana b’impinja?,Indwara kubana bakivuka?","Indwara zikunze kugaragara ni:
+
+1. Impiswi (diarrhea)
+2. Indwara z’ubuhumekero (imyanda mu bihaha, umusonga)
+3. Ibicurane ni inkorora
+4. Indwara z’uruhu
+5. Umwana kudakura neza cyangwa kutiyongera ibiro uko bikwiye (Malnutrition)",
+Ni ukubera iki ari ingenzi gukurikirana imikurire y’umwana?,"Kugenzura uko umwana akura ni ingenzi kuko bifasha kumenya niba umwana akura
+neza, afite ubuzima bwiza, kandi abona intungamubiri zihagije. Bifasha kandi gutahura
+hakiri kare ibibazo by’uburwayi cyangwa imirire mibi, bityo akavurwa cyangwa
+hagafatwa ingamba zikwiye ku gihe. Ibi bigira uruhare mu gukumira indwara, gukomeza
+ubuzima bwiza, no gufasha umwana kugera ku ntego z’iterambere rye ry’umubiri
+n’ubwenge.",
+Kwita ku mwana mu buryo bwa Kangaroo bisobanura iki (KMC)?,"Ni uburyo bwo kwita ku mwana wavutse akiri muto cyangwa ufite ibiro bike aho umubyeyi
+(akenshi ni nyina) ashyira umwana ku mugongo we cyangwa ku gituza cye, agapfundikira neza,
+kugira ngo umwana akomeze agire ubushyuhe bw’umubiri bukwiye, ahabwe ibere rya nyina,
+kandi agire umutekano n’urukundo.
+Ibyiza bya KMC ni:
+1. Bituma umwana agumana ubushyuhe bukwiye bw’umubiri.
+2. Bituma umwana arya neza kubera ko yonka ibere rya nyina kenshi.
+3. Bigabanya ibyago byo kurwara no gupfa akiri muto.
+4. Bituma habaho guhuzwa k’umwana n’umubyeyi (bonding).",
+Ni ubuhe buryo bwo kuboneza urubyaro (Family planning)?,"Uburyo bwo kuboneza urubyaro ni:
+
+1. Imiti yo kwirinda gusama (Contraceptive Pills): imiti umugore anywa buri munsi
+cyangwa buri gihembwe.
+2. Injections: urushinge ruterwa buri mezi abiri cyangwa atatu.
+3. Implants: Agapira gashyirwa mu kuboko, karinda gusama imyaka myinshi.
+4. Agapira gashyirwa mu mura (IUD – Intrauterine Device): gashyirwa mu mura
+k’umugore, karinda gusama igihe kirekire.
+5. Agakingirizo (Condom): zikoreshwa n’umugabo cyangwa umugore, zikumira gusama
+ndetse n’indwara zandurira mu mibonano.
+6. Kumenya iminsi ashobora gusama (Fertility Awareness Methods) : kwirinda
+imibonano mu minsi umugore ashobora gusama.
+7. Kwifunga burundu (Sterilization): Kubaga umugore cyangwa umugabo kugira ngo
+intanga ngabo ni ntanga ngore zitazongera guhura.",
+Ese kuboneza urubyaro birizewe ku mugore wonsa?,"Yego, hari uburyo bwinshi bwo kuboneza urubyaro kandi bukaba butagira ingaruka ku
+mukobwa uri konsa cyangwa ku mwana.",
+Kubera iki gushyira intera hagati yo kubyara ari ingenzi?,"Gushyira intera hagati y’ababa bavuka (birth spacing) Ni ingenzi kuko:
+1. Bifasha umubyeyi kugarura imbaraga: Bituma umubiri w’umugore wiyubaka neza
+mbere yo gutwita ubutaha.
+2. Biteza imbere ubuzima bw’umwana: Abana bavuka bafite intera ihagije hagati yabo
+bagira amahirwe menshi yo gukura neza no kurindwa indwara.
+3. Bigabanya ibyago byo gupfa: ku babyeyi no ku bana, cyane cyane mu gihe cy’ibyorezo
+n’indwara z’abana bato.
+4. Bifasha umuryango guteganya neza umutungo n’ubuzima bw’abana: umuryango
+ushobora guha buri mwana ibyo akeneye mu buryo buhagije.",
+Ni iyihe myizerere itariyo ku bijyanye no kuboneza urubyaro (Family Planning)?,"Imyizerere itariyo ni:
+
+1. Kuboneza urubyaro ntibuhungabanya urukundo cyangwa ubushake mu mibonano.
+2. Ntibigira ingaruka mbi ku buzima igihe bikoreshejwe neza.
+3. Ntibigabanya amahirwe yo kubyara mu gihe wifuza kongera kubyara.
+4. Si iby’abagore gusa; n’abagabo bagira uruhare.
+5. Buri gihe hari uburyo bwemewe n’amadini kandi butekanye ku buzima.",
+Ni izihe ngaruka zo gukoresha uburyo bwo kuboneza urubyaro?,"Ni:
+
+1. Impinduka ku mezi y’imihango: Ashobora kuzana imihango idasanzwe, kubura
+imihango, cyangwa kuvamo amaraso atari menshi.
+2. Kuribwa umutwe : Bamwe bashobora kugira uburibwe bw’umutwe
+3. Kongera ibiro cyangwa kugabanya ibiro: Impinduka ku mubiri zishobora kugaragara
+ku gipimo gito.
+4. Kubabara mu nda cyangwa mu gatuza: Hari igihe bamwe bashobora kubabara mu nda
+cyangwa mu gatuza.
+5. Kumva umunaniro cyangwa ihindagurika ry’amarangamutima: bamwe bashobora
+kumva umunaniro cyangwa guhindagurika kw’amarangamutima.
+Izi ngaruka akenshi ziba by’igihe gito kandi zikagenda zishira mu gihe umubiri umaze
+kumenyera uburyo bwo kuboneza urubyaro. Niba bikomeje cyangwa bikomeye, ni byiza kugisha
+inama y’umuganga.",
+Ni ryari umugore yatangira kuboneza urubyaro nyuma yo kubyara?,Akimara kubyara,
+Ni ryari umuntu ashobora gusama nyuma yo guhagarika uburyo bwo kuboneza urubyaro?,"1. Abenshi bashobora gusubira gusama ako kanya cyangwa mu mezi make nyuma yo
+guhagarika imiti cyangwa uburyo bwo kuboneza urubyaro.
+2. Impinduka zishingiye ku buryo bwo kuboneza urubyaro:
+o Contraceptive pills, injections, implants, IUDs, condoms: ubushobozi bwo
+gusama bushobora kugaruka ako kanya cyangwa mu gihe cy’ukwezi kumwe
+cyangwa abiri.
+o Kwifunga burundu (sterilization): ntibishoboka kongera gusama.
+Ibi byose bikunze gutandukana bitewe n’umubiri w’umuntu, imyaka, n’uburyo bwo kuboneza
+urubyaro bwakoreshejwe.",
+Ese abagabo bashobora gukoresha uburyo bwo kuboneza urubyaro?,"Yego, abagabo nabo bashobora gukoresha uburyo bwo kuboneza urubyaro.
+Uburyo abagabo bashobora gukoresha:
+
+1. Condom (agakingirizo): Dukumira gusama no kurinda indwara zandurira mu mibonano
+mpuzabitsina.
+2. Kwifungisha burundu (Male sterilization / vasectomy)
+Ibi bifasha abagabo kugira uruhare mu guteganya umuryango no kurinda ubuzima
+bw’umuryango.",
