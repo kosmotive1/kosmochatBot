@@ -9,8 +9,7 @@ PROJECT_DIR = os.path.dirname(__file__)
 DATA_DIR = os.path.join(PROJECT_DIR, "data")
 KB_PATH = os.path.join(DATA_DIR, "kb.csv")
 EMBEDDINGS_PATH = os.path.join(DATA_DIR, "kb_embeddings.npy")
-# EMBEDDING_MODEL_NAME = "sentence-transformers/all-MiniLM-L12-v2"
-EMBEDDING_MODEL_NAME = "all-MiniLM-L6-v2"  # local model
+EMBEDDING_MODEL_NAME = "all-MiniLM-L6-v2"  # small local model
 EMBEDDING_SIZE = 384  # model output dim
 
 # Load local sentence-transformers model
@@ -52,12 +51,13 @@ def load_kb() -> pd.DataFrame:
     return df[["question", "answer", "tags"]]
 
 def append_kb_entry(question: str, answer: str, tags: str = ""):
-    """Add a new question-answer to KB and recompute embeddings"""
+    """Add a new question-answer to KB without recomputing embeddings at runtime"""
     df = load_kb()
     new_row = {"question": question.strip(), "answer": answer.strip(), "tags": tags.strip()}
     df = pd.concat([df, pd.DataFrame([new_row])], ignore_index=True)
     df.to_csv(KB_PATH, index=False, encoding="utf-8-sig")
-    compute_kb_embeddings(df)
+    # ❌ Do NOT call compute_kb_embeddings() here on Render
+    # To update embeddings, run `precompute_embeddings.py` locally
 
 # ---------------- Embedding Functions ---------------- #
 def embed_text(text: str):
@@ -81,6 +81,7 @@ def load_kb_embeddings(df: pd.DataFrame):
     """Load cached embeddings or recompute if missing"""
     if os.path.exists(EMBEDDINGS_PATH):
         return np.load(EMBEDDINGS_PATH, allow_pickle=True)
+    # If embeddings missing, compute once (memory-heavy)
     return compute_kb_embeddings(df)
 
 # ---------------- Answer Generator ---------------- #
