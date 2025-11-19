@@ -7,7 +7,3 @@ uvicorn[standard]==0.34.0
 
 # --- Added dependencies ---
 sentence-transformers
-scikit-learn
-
-# Use CPU-only Torch (Render compatible)
-torch --index-url https://download.pytorch.org/whl/cpu
