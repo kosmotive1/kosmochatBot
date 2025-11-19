@@ -9,7 +9,8 @@ PROJECT_DIR = os.path.dirname(__file__)
 DATA_DIR = os.path.join(PROJECT_DIR, "data")
 KB_PATH = os.path.join(DATA_DIR, "kb.csv")
 EMBEDDINGS_PATH = os.path.join(DATA_DIR, "kb_embeddings.npy")
-EMBEDDING_MODEL_NAME = "all-MiniLM-L6-v2"  # local model
+EMBEDDING_MODEL_NAME = "sentence-transformers/all-MiniLM-L12-v2"
+# EMBEDDING_MODEL_NAME = "all-MiniLM-L6-v2"  # local model
 EMBEDDING_SIZE = 384  # model output dim
 
 # Load local sentence-transformers model
